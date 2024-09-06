@@ -63,7 +63,7 @@ You can also use Postman to track the `POST` and `GET` requests, figure out how 
 **NOTE**: I really hope this works for you! If you manage to optimize it or make the instructions clearer, feel free to submit a pull request, and I’d be happy to check it out!
 
 
-Here's a GIF showing how it's looking for empty slots! 
+Here's a GIF showing how it's looking for empty slots! If it doesn't show check the `robot_demo.gif` file!
 
-![Interview Robot Demo](./robot_demo.gif)
+[Interview Robot Demo](./robot_demo.gif)
 
